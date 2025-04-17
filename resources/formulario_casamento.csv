@@ -1,0 +1,464 @@
+id,idade,estado,cidade,bairro,sexo,estilo_musical,bebida_alcoolica,tem_filhos,ja_foi_casado,atividade_fisica,idade_minima_parceiro,idade_maxima_parceiro,parceiro_pode_ter_filhos,parceiro_pode_beber,parceiro_pode_ser_casado,frase_identificacao,data_cadastro
+4,52,RJ,Rio de Janeiro,Tijuca,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,47,58,Não,Não,Não,Experiências e viagens,2025-03-31 22:45:04
+5,47,BA,Barreiras,Barreirinhas ,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,40,60,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-03-31 22:45:21
+6,55,ES,Vitória,Jardim Camburi ,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,48,60,Não,Sim,Sim,Vida simples com família,2025-03-31 22:46:31
+7,39,PA,Belém,Marco,Feminino,MPB,Bebo Socialmente,Não,Não,3x por semana,31,45,Sim,Não,Sim,Vida simples com família,2025-03-31 22:48:48
+8,48,RJ,Niterói,Maria Paula ,Feminino,Pop,Bebo Socialmente,Sim,Sim,3x por semana,39,50,Não,Não,Não,Vida simples com família,2025-03-31 22:49:16
+9,45,BA,Salvador,Itapoan ,Feminino,MPB,Não Bebo,Não,Sim,Diariamente,38,50,Não,Tanto Faz,Não,Vida simples com família,2025-03-31 22:50:37
+10,23,GO,Goiânia,Tremendão ,Feminino,Rock,Não Bebo,Não,Sim,Diariamente,27,35,Sim,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-03-31 22:50:46
+11,54,PR,Curitiba,Portão ,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,45,60,Não,Não,Não,Equilíbrio material/espiritual,2025-03-31 22:53:33
+12,43,MG,Contagem,Beatriz ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,1x por semana,37,45,Não,Não,Não,Riqueza espiritual,2025-03-31 22:54:07
+13,47,RS,Caxias do Sul,Lourdes,Feminino,Pop,Não Bebo,Sim,Sim,Diariamente,37,55,Não,Sim,Não,Experiências e viagens,2025-03-31 22:54:11
+14,26,RS,Caxias do Sul,Jardim eldorado ,Feminino,Pagode,Nos Finais de Semana,Não,Sim,Diariamente,25,34,Não,Não,Não,Vida simples com família,2025-03-31 22:54:25
+15,42,PR,Guarapuava,Bonsucesso,Feminino,Rock,Bebo Socialmente,Sim,Sim,1x por semana,40,50,Não,Não,Não,Vida simples com família,2025-03-31 23:00:13
+16,39,SC,Blumenau,Centro,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,35,55,Não,Não,Não,Experiências e viagens,2025-03-31 23:01:37
+17,49,PE,Recife,Casa forte,Feminino,Sertanejo,Não Bebo,Sim,Sim,3x por semana,40,58,Não,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-03-31 23:01:43
+18,38,SP,Presidente Prudente,Jd Itapura II ,Feminino,Samba,Não Bebo,Não,Sim,Diariamente,33,42,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-03-31 23:04:26
+19,31,SP,São Paulo,São Miguel Paulista ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,1x por semana,28,45,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-03-31 23:04:56
+20,35,PE,Paulista,Maranguape 1,Feminino,Pagode,Não Bebo,Não,Não,1x por semana,25,50,Tanto Faz,Sim,Tanto Faz,Vida simples com família,2025-03-31 23:05:33
+21,47,SP,São Paulo,Tucuruvi ,Feminino,Pagode,Bebo Socialmente,Sim,Sim,3x por semana,40,55,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-03-31 23:08:22
+22,37,RJ,Campos dos Goytacazes,Jardim carioca ,Feminino,Pagode,Nos Finais de Semana,Sim,Sim,Diariamente,30,50,Não,Não,Não,Riqueza espiritual,2025-03-31 23:08:54
+23,36,MG,Contagem,Riacho,Feminino,Rock,Bebo Socialmente,Não,Sim,3x por semana,35,45,Não,Não,Não,Vida simples com família,2025-03-31 23:09:38
+24,41,PR,Curitiba,Centro,Feminino,Samba,Bebo Socialmente,Sim,Sim,1x por semana,35,45,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-03-31 23:10:05
+25,49,SP,Jaú,Vila maria,Feminino,MPB,Bebo Socialmente,Sim,Sim,3x por semana,39,58,Não,Não,Não,Riqueza espiritual,2025-03-31 23:12:08
+26,45,PE,Recife,Zona Norte,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,40,50,Não,Não,Não,Vida simples com família,2025-03-31 23:13:13
+27,48,MG,Santana do Paraíso,Cidade Nova,Masculino,Rock,Não Bebo,Sim,Sim,3x por semana,43,53,Tanto Faz,Não,Não,Riqueza espiritual,2025-03-31 23:13:20
+28,27,PR,Curitiba,Campo comprido ,Feminino,Pop,Bebo Socialmente,Não,Não,3x por semana,24,37,Tanto Faz,Sim,Não,Experiências e viagens,2025-03-31 23:16:01
+29,48,DF,Brasília,Águas claras,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,43,54,Não,Não,Não,Riqueza espiritual,2025-03-31 23:16:10
+30,30,SE,Nossa Senhora do Socorro,Taiçoca,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,29,35,Tanto Faz,Tanto Faz,Não,Riqueza espiritual,2025-03-31 23:16:59
+31,59,SP,Agudos,Jd Márcia ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,59,60,Não,Tanto Faz,Não,Riqueza espiritual,2025-03-31 23:17:26
+32,28,RS,Porto Alegre,Auxiliadora,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,28,35,Sim,Não,Sim,Equilíbrio material/espiritual,2025-03-31 23:18:29
+33,48,PR,Curitiba,Rebouças ,Feminino,Rock,Bebo Socialmente,Não,Não,3x por semana,34,42,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-03-31 23:19:51
+34,37,SP,São Paulo,Chácara Santo Antônio ,Feminino,Rock,Nos Finais de Semana,Não,Sim,3x por semana,28,43,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-03-31 23:21:08
+35,45,PR,Curitiba,Boa Vista ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,39,55,Não,Não,Não,Riqueza espiritual,2025-03-31 23:22:02
+36,29,SC,Balneário Camboriú,Centro,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,29,40,Sim,Tanto Faz,Tanto Faz,Vida glamourosa,2025-03-31 23:22:05
+37,33,RS,Porto Alegre,Partenon ,Feminino,Pagode,Bebo Socialmente,Não,Não,3x por semana,25,41,Não,Não,Não,Equilíbrio material/espiritual,2025-03-31 23:23:53
+38,31,BA,Salvador,Engenho Velho de Brotas ,Feminino,MPB,Bebo Socialmente,Não,Não,3x por semana,25,41,Sim,Tanto Faz,Tanto Faz,Vida simples com família,2025-03-31 23:30:27
+39,49,DF,Brasília,Águas Claras ,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,35,50,Não,Não,Não,Equilíbrio material/espiritual,2025-03-31 23:31:41
+40,30,RJ,Rio de Janeiro,Meier,Feminino,Samba,Não Bebo,Não,Não,Diariamente,31,40,Sim,Não,Não,Experiências e viagens,2025-03-31 23:36:27
+41,40,ES,Serra,Jardim Limoeiro ,Feminino,Samba,Bebo Socialmente,Sim,Sim,3x por semana,35,45,Não,Não,Não,Vida simples com família,2025-03-31 23:39:39
+42,34,SP,São Paulo,Bela vista ,Feminino,Rock,Não Bebo,Não,Não,1x por semana,30,40,Não,Tanto Faz,Não,Equilíbrio material/espiritual,2025-03-31 23:40:02
+43,49,PR,Curitiba,Uberaba,Feminino,Sertanejo,Não Bebo,Sim,Sim,Diariamente,42,50,Não,Não,Não,Experiências e viagens,2025-03-31 23:41:30
+44,39,BA,Salvador,Pituba ,Feminino,Pop,Bebo Socialmente,Não,Sim,3x por semana,35,44,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-03-31 23:43:18
+45,19,GO,Trindade,Luzia Monteiro ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,20,25,Não,Não,Sim,Experiências e viagens,2025-03-31 23:44:21
+46,40,SP,Praia Grande,Aviação ,Feminino,Rock,Não Bebo,Sim,Sim,3x por semana,32,43,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-03-31 23:44:46
+47,42,SP,Jacareí,São joao,Feminino,Sertanejo,Não Bebo,Sim,Sim,3x por semana,43,52,Não,Sim,Não,Equilíbrio material/espiritual,2025-03-31 23:45:00
+48,40,BA,Salvador,Nem longe nem perto ,Masculino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,27,35,Sim,Não,Tanto Faz,Vida simples com família,2025-03-31 23:45:16
+49,51,RJ,Rio de Janeiro,Barra Olímpica ,Feminino,MPB,Bebo Socialmente,Sim,Sim,3x por semana,38,57,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-03-31 23:45:33
+50,28,BA,Camaçari,Abrantes ,Feminino,Sertanejo,Bebo Sempre,Não,Não,1x por semana,25,45,Sim,Não,Não,Experiências e viagens,2025-03-31 23:46:39
+51,33,SP,São Bernardo do Campo,Centro,Feminino,Pop,Nos Finais de Semana,Não,Não,3x por semana,30,38,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-03-31 23:47:05
+52,27,BA,Salvador,Cajazeiras,Feminino,MPB,Bebo Socialmente,Não,Não,1x por semana,25,42,Tanto Faz,Não,Não,Riqueza espiritual,2025-03-31 23:47:12
+53,45,SP,Araraquara,Cond. Buona Vita,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,45,50,Não,Não,Não,Riqueza espiritual,2025-03-31 23:47:56
+54,54,SC,Jaraguá do Sul,Czerniewicz ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Não gosto,28,55,Não,Sim,Não,Riqueza espiritual,2025-03-31 23:49:54
+55,45,SP,São Paulo,V. Mariana,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,45,50,Não,Não,Não,Riqueza espiritual,2025-03-31 23:50:28
+56,52,SP,Cotia,Jd. Nova 6,Feminino,MPB,Nos Finais de Semana,Sim,Sim,1x por semana,48,54,Não,Não,Não,Riqueza espiritual,2025-03-31 23:50:39
+57,25,GO,Goiânia,Jardim mariliza ,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,27,35,Tanto Faz,Tanto Faz,Não,Vida simples com família,2025-03-31 23:51:19
+58,37,RJ,Rio de Janeiro,Flamengo ,Feminino,MPB,Bebo Socialmente,Não,Sim,3x por semana,27,45,Não,Não,Não,Experiências e viagens,2025-03-31 23:54:57
+59,42,PR,Curitiba,Cajuru ,Feminino,Rock,Bebo Socialmente,Não,Sim,3x por semana,30,45,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-03-31 23:55:19
+60,31,DF,Brasília,Ceilândia ,Feminino,Rock,Não Bebo,Não,Não,3x por semana,30,40,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-03-31 23:57:43
+61,37,SP,Indaiatuba,Jd Nova Veneza ,Feminino,MPB,Não Bebo,Sim,Sim,Não gosto,32,46,Não,Tanto Faz,Não,Vida simples com família,2025-03-31 23:57:53
+62,36,ES,Serra,Jardim limoeiro ,Feminino,Samba,Não Bebo,Sim,Sim,3x por semana,30,50,Não,Não,Não,Riqueza espiritual,2025-03-31 23:57:53
+63,39,SE,Aracaju,Inácio Barbosa ,Feminino,MPB,Bebo Socialmente,Não,Não,3x por semana,37,43,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-03-31 23:58:03
+64,31,MG,Betim,….,Feminino,MPB,Bebo Socialmente,Não,Não,3x por semana,30,44,Sim,Tanto Faz,Não,Vida simples com família,2025-04-01 00:04:04
+65,41,SP,Barueri,Jardim Silveira ,Feminino,Pagode,Bebo Socialmente,Sim,Não,3x por semana,39,50,Não,Não,Não,Vida simples com família,2025-04-01 00:04:12
+66,48,SP,Campinas,Remanso campineiro,Feminino,Sertanejo,Nos Finais de Semana,Não,Sim,3x por semana,40,55,Tanto Faz,Não,Não,Riqueza espiritual,2025-04-01 00:06:05
+67,27,PR,Curitiba,Campo comprido ,Feminino,Pop,Bebo Socialmente,Não,Não,3x por semana,24,37,Tanto Faz,Sim,Não,Experiências e viagens,2025-04-01 00:06:06
+68,39,SC,Blumenau,Timbó SC,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,30,50,Não,Não,Não,Riqueza espiritual,2025-04-01 00:06:19
+69,27,BA,Salvador,Campinas de Pirajá,Masculino,MPB,Bebo Socialmente,Não,Não,1x por semana,25,32,Tanto Faz,Tanto Faz,Não,Vida simples com família,2025-04-01 00:07:38
+70,39,DF,Brasília,Jardim Botânico ,Feminino,Samba,Nos Finais de Semana,Não,Não,3x por semana,35,45,Não,Não,Não,Vida simples com família,2025-04-01 00:09:59
+71,38,SP,São Paulo,Pedreira ,Feminino,Pop,Bebo Socialmente,Não,Não,Diariamente,18,18,Não,Não,Não,Experiências e viagens,2025-04-01 00:10:21
+72,46,MG,Uberlândia,Santa Monica ,Feminino,Pop,Não Bebo,Sim,Sim,Diariamente,40,56,Não,Não,Não,Riqueza espiritual,2025-04-01 00:10:51
+73,24,GO,Padre Bernardo,T,Feminino,Sertanejo,Nos Finais de Semana,Sim,Sim,Diariamente,25,50,Tanto Faz,Tanto Faz,Tanto Faz,Vida glamourosa,2025-04-01 00:16:49
+74,44,CE,Sobral,Terrenos novos,Feminino,Sertanejo,Não Bebo,Sim,Sim,Diariamente,30,45,Não,Sim,Não,Vida simples com família,2025-04-01 00:17:44
+75,23,SP,São Paulo,Parelheiros,Masculino,Rock,Não Bebo,Não,Não,Diariamente,18,25,Sim,Sim,Sim,Vida simples com família,2025-04-01 00:18:45
+76,33,GO,Formosa,Centro,Feminino,Sertanejo,Nos Finais de Semana,Sim,Não,3x por semana,25,45,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 00:18:55
+77,20,SP,Campinas,Barão Geraldo,Masculino,Rock,Bebo Socialmente,Não,Não,3x por semana,18,24,Sim,Não,Sim,Riqueza espiritual,2025-04-01 00:20:08
+78,37,BA,Lauro de Freitas,Abrantes ,Feminino,Samba,Não Bebo,Não,Não,1x por semana,38,45,Sim,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 00:20:30
+79,61,RJ,Rio de Janeiro,Campo Grande ,Feminino,MPB,Bebo Socialmente,Sim,Sim,1x por semana,50,60,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 00:20:31
+80,36,PI,Teresina,Jockey ,Feminino,MPB,Bebo Socialmente,Não,Não,3x por semana,28,52,Tanto Faz,Tanto Faz,Sim,Vida simples com família,2025-04-01 00:22:25
+81,35,DF,Brasília,Samambaia ,Feminino,Rock,Bebo Socialmente,Não,Não,3x por semana,30,40,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 00:23:39
+82,37,SC,Balneário Camboriú,Centro,Feminino,Sertanejo,Não Bebo,Não,Sim,Diariamente,36,45,Não,Sim,Não,Vida simples com família,2025-04-01 00:26:28
+83,34,SP,Osasco,Vila Yara,Feminino,Pop,Não Bebo,Não,Não,3x por semana,27,43,Sim,Sim,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 00:26:47
+84,51,SC,Biguaçu,Praia ,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,39,58,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 00:26:58
+85,37,SC,Biguaçu,Bom viver ,Feminino,Pagode,Bebo Socialmente,Sim,Sim,Não gosto,30,45,Não,Não,Não,Vida simples com família,2025-04-01 00:29:52
+86,37,PR,Curitiba,Hauer ,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,35,48,Sim,Não,Não,Equilíbrio material/espiritual,2025-04-01 00:30:23
+87,29,MT,Cuiabá,Bosque da saúde ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,24,45,Não,Não,Não,Vida simples com família,2025-04-01 00:31:32
+88,40,RS,Porto Alegre,Petrópolis ,Feminino,MPB,Bebo Socialmente,Não,Sim,3x por semana,38,47,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 00:35:59
+89,25,RJ,Nilópolis,Centro,Feminino,Pop,Não Bebo,Não,Não,3x por semana,20,27,Sim,Tanto Faz,Sim,Vida simples com família,2025-04-01 00:39:03
+90,32,PR,Maringá,Zona 4,Masculino,Rock,Não Bebo,Não,Não,Diariamente,24,36,Sim,Sim,Não,Equilíbrio material/espiritual,2025-04-01 00:39:35
+91,43,PR,Curitiba,Santa quiteria ,Feminino,Rock,Bebo Socialmente,Não,Sim,1x por semana,40,50,Não,Não,Não,Riqueza espiritual,2025-04-01 00:40:06
+92,25,RJ,Rio de Janeiro,Nilópolis,Feminino,Pop,Não Bebo,Não,Não,3x por semana,20,27,Sim,Tanto Faz,Sim,Vida simples com família,2025-04-01 00:41:33
+93,34,GO,Goiânia,Bueno,Feminino,Sertanejo,Não Bebo,Não,Sim,3x por semana,28,40,Sim,Tanto Faz,Não,Vida simples com família,2025-04-01 00:41:47
+94,48,DF,Brasília,Guará ,Feminino,MPB,Bebo Socialmente,Sim,Sim,3x por semana,33,58,Não,Não,Não,Experiências e viagens,2025-04-01 00:41:59
+95,27,RJ,Rio de Janeiro,Vila Valqueire ,Masculino,MPB,Bebo Socialmente,Não,Não,1x por semana,18,48,Não,Não,Não,Vida simples com família,2025-04-01 00:42:27
+96,39,PR,Araucária,Campina da Barra ,Feminino,Pagode,Nos Finais de Semana,Sim,Sim,1x por semana,28,50,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 00:42:38
+97,27,GO,Anápolis,Jundiaí ,Feminino,Pop,Não Bebo,Não,Não,Não gosto,27,37,Sim,Tanto Faz,Sim,Equilíbrio material/espiritual,2025-04-01 00:45:26
+98,35,GO,Goiânia,Parque Amazônia ,Feminino,Pagode,Bebo Socialmente,Sim,Sim,Diariamente,30,42,Não,Não,Não,Experiências e viagens,2025-04-01 00:45:38
+99,46,SP,Santos,Embaré ,Feminino,Pop,Bebo Socialmente,Sim,Sim,Diariamente,42,51,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 00:46:10
+100,46,SP,São Paulo,Jaguaré ,Feminino,Pop,Bebo Socialmente,Sim,Sim,Diariamente,40,51,Não,Não,Não,Riqueza espiritual,2025-04-01 00:49:57
+101,39,MG,Juiz de Fora,Centro ,Feminino,Rock,Bebo Socialmente,Não,Não,3x por semana,35,45,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 00:50:34
+102,26,GO,Goiânia,Jardim Balneário ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,28,38,Sim,Não,Não,Vida simples com família,2025-04-01 00:51:18
+103,38,RJ,Rio de Janeiro,Méier,Feminino,Samba,Não Bebo,Não,Não,Diariamente,37,45,Tanto Faz,Tanto Faz,Não,Equilíbrio material/espiritual,2025-04-01 00:51:28
+104,31,BA,Salvador,Graça,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,30,43,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 00:52:36
+105,33,RS,Gravataí,Centro,Masculino,Rock,Bebo Socialmente,Não,Não,1x por semana,25,40,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 00:53:01
+106,33,GO,Goiânia,Negrão de Lima ,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,33,45,Não,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 00:53:10
+107,32,DF,Brasília,Samambaia ,Feminino,MPB,Não Bebo,Não,Não,3x por semana,31,36,Sim,Não,Sim,Vida simples com família,2025-04-01 00:53:24
+108,33,RS,Santa Cruz do Sul,Centro ,Feminino,MPB,Bebo Socialmente,Não,Não,Diariamente,30,40,Não,Não,Não,Vida simples com família,2025-04-01 00:53:48
+109,23,RJ,Rio de Janeiro,Meier ,Feminino,Pop,Não Bebo,Não,Não,1x por semana,23,30,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 00:54:21
+110,35,RJ,Araruama,Praia seca ,Feminino,Sertanejo,Não Bebo,Não,Não,3x por semana,30,45,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 00:55:18
+111,39,SP,São Paulo,Grajaú ,Feminino,MPB,Não Bebo,Sim,Sim,1x por semana,40,50,Não,Sim,Não,Vida simples com família,2025-04-01 00:56:50
+112,47,GO,Goiânia,Jardim Goiás ,Feminino,Rock,Não Bebo,Sim,Sim,3x por semana,40,57,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 00:58:32
+113,33,GO,Goiânia,JD. América,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,25,53,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 00:59:04
+114,36,PR,Curitiba,CIC ,Feminino,Rock,Não Bebo,Não,Não,1x por semana,30,45,Tanto Faz,Sim,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 00:59:43
+115,43,DF,Brasília,Ceilândia ,Feminino,MPB,Bebo Socialmente,Sim,Sim,3x por semana,35,50,Não,Tanto Faz,Não,Equilíbrio material/espiritual,2025-04-01 01:00:00
+116,46,PA,Belém,Parque ,Feminino,Pop,Não Bebo,Sim,Sim,1x por semana,40,50,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 01:01:17
+117,35,GO,Goiânia,Jardim Atlântico ,Feminino,Rock,Nos Finais de Semana,Sim,Não,Diariamente,29,42,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 01:01:43
+118,28,RS,Novo Hamburgo,Vila Rosa ,Feminino,Pagode,Nos Finais de Semana,Não,Não,Diariamente,28,34,Tanto Faz,Sim,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 01:02:47
+119,56,GO,Goiânia,Parque Amazonas ,Feminino,Rock,Não Bebo,Sim,Sim,3x por semana,18,56,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 01:03:10
+120,38,GO,Goiânia,Parque Atheneu ,Feminino,Pagode,Bebo Socialmente,Não,Sim,1x por semana,30,47,Tanto Faz,Não,Não,Vida simples com família,2025-04-01 01:03:29
+121,31,PE,Cabo de Santo Agostinho,Pontezinha ,Feminino,Rock,Não Bebo,Não,Sim,Diariamente,26,40,Não,Sim,Não,Vida simples com família,2025-04-01 01:03:30
+122,24,RS,Porto Alegre,Protásio Alves,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,20,35,Não,Não,Não,Experiências e viagens,2025-04-01 01:03:56
+123,37,GO,Goiânia,Oeste ,Feminino,MPB,Não Bebo,Não,Não,Diariamente,33,50,Não,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 01:04:08
+124,32,PB,João Pessoa,Jardim Oceania,Feminino,Pagode,Bebo Socialmente,Não,Não,3x por semana,27,42,Tanto Faz,Não,Não,Experiências e viagens,2025-04-01 01:05:08
+125,39,PR,Maringá,Centro,Feminino,Sertanejo,Não Bebo,Não,Não,Diariamente,36,41,Sim,Sim,Não,Equilíbrio material/espiritual,2025-04-01 01:05:42
+126,28,GO,Goiânia,Jardim,Feminino,MPB,Bebo Socialmente,Não,Não,Diariamente,25,50,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 01:08:43
+127,61,GO,Goiânia,Alto da Glória ,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,59,60,Não,Não,Não,Vida simples com família,2025-04-01 01:09:33
+128,25,PR,Curitiba,Hauer,Feminino,Pagode,Bebo Socialmente,Não,Sim,Diariamente,24,37,Tanto Faz,Não,Não,Experiências e viagens,2025-04-01 01:12:17
+129,45,GO,Alexânia,Centro ,Feminino,Pop,Não Bebo,Sim,Sim,3x por semana,37,56,Não,Tanto Faz,Não,Equilíbrio material/espiritual,2025-04-01 01:13:13
+130,30,GO,Goiânia,Setor Pedro Ludovico ,Feminino,Pop,Bebo Socialmente,Não,Sim,Diariamente,25,45,Não,Não,Não,Riqueza espiritual,2025-04-01 01:13:37
+131,38,GO,Goiânia,Jardim presidente ,Feminino,Pagode,Nos Finais de Semana,Sim,Sim,Diariamente,30,55,Não,Não,Não,Riqueza espiritual,2025-04-01 01:15:40
+132,44,GO,Mineiros,Residencial Versailles ,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,35,47,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 01:17:34
+133,37,GO,Goiânia,Pq amazônia ,Feminino,Pop,Não Bebo,Sim,Sim,Diariamente,30,45,Tanto Faz,Tanto Faz,Não,Equilíbrio material/espiritual,2025-04-01 01:17:46
+134,37,GO,Goiânia,St Universitário ,Feminino,Sertanejo,Nos Finais de Semana,Não,Sim,1x por semana,34,50,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 01:19:58
+135,40,GO,Goiânia,Negrão de Lima ,Feminino,Sertanejo,Não Bebo,Sim,Sim,3x por semana,38,50,Não,Não,Não,Riqueza espiritual,2025-04-01 01:20:07
+136,40,SP,São Paulo,Perus,Feminino,Rock,Bebo Socialmente,Não,Não,3x por semana,30,46,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 01:20:31
+137,30,GO,Goiânia,Centro,Feminino,Rock,Não Bebo,Não,Sim,Diariamente,29,39,Tanto Faz,Tanto Faz,Não,Vida simples com família,2025-04-01 01:21:23
+138,31,MT,Sinop,Parque das araras ,Feminino,MPB,Nos Finais de Semana,Não,Não,Não gosto,25,45,Não,Não,Não,Experiências e viagens,2025-04-01 01:21:51
+139,50,SP,Guarulhos,Vila Augusta,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,45,54,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 01:22:29
+140,39,PB,João Pessoa,Bancários ,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,30,45,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 01:22:30
+141,30,GO,Goiânia,Aeroporto ,Feminino,Rock,Bebo Socialmente,Não,Não,3x por semana,29,40,Não,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 01:22:58
+142,45,GO,Goiânia,Condomínio Anhanguera ,Feminino,Sertanejo,Nos Finais de Semana,Sim,Sim,Diariamente,20,52,Não,Não,Não,Vida simples com família,2025-04-01 01:25:29
+143,37,GO,Goiânia,Maria Dilce,Feminino,Pagode,Não Bebo,Não,Sim,3x por semana,30,45,Tanto Faz,Não,Não,Vida simples com família,2025-04-01 01:27:23
+144,37,RJ,Rio de Janeiro,Anil ,Feminino,Rock,Nos Finais de Semana,Sim,Sim,3x por semana,33,52,Não,Não,Não,Experiências e viagens,2025-04-01 01:30:02
+145,42,GO,Goiânia,Feliz,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,35,50,Sim,Sim,Sim,Vida simples com família,2025-04-01 01:30:34
+146,25,GO,Goiânia,Coimbra,Feminino,Sertanejo,Bebo Socialmente,Não,Não,1x por semana,25,35,Tanto Faz,Não,Tanto Faz,Vida glamourosa,2025-04-01 01:34:50
+147,50,GO,Goiânia,ST OESTE ,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,43,55,Não,Tanto Faz,Não,Equilíbrio material/espiritual,2025-04-01 01:37:13
+148,46,SC,Siderópolis,Centro ,Feminino,Pop,Nos Finais de Semana,Sim,Sim,3x por semana,40,50,Não,Não,Não,Vida simples com família,2025-04-01 01:37:51
+149,41,GO,Ipameri,Jardim Europa ,Feminino,MPB,Bebo Socialmente,Sim,Sim,3x por semana,37,47,Não,Não,Não,Experiências e viagens,2025-04-01 01:38:18
+150,41,SP,Sorocaba,Nova Manchester ,Feminino,Rock,Nos Finais de Semana,Sim,Sim,1x por semana,30,45,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 01:39:11
+151,46,GO,Goiânia,Recanto das minas gerais ,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,36,56,Não,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 01:39:36
+152,44,GO,Goiânia,Bueno,Feminino,Sertanejo,Nos Finais de Semana,Sim,Sim,3x por semana,45,52,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 01:40:00
+153,52,GO,Goiatuba,Setor oeste ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,3x por semana,45,60,Não,Não,Não,Riqueza espiritual,2025-04-01 01:41:00
+154,27,GO,Goiânia,Residencial João Paulo II ,Feminino,Rock,Não Bebo,Não,Sim,Não gosto,24,45,Sim,Sim,Não,Equilíbrio material/espiritual,2025-04-01 01:44:26
+155,40,SP,Campinas,Jd Nova Europa,Feminino,Pagode,Bebo Socialmente,Não,Não,3x por semana,35,50,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 01:48:52
+156,25,PR,Curitiba,Eu sou de campo largo na verdade (região metropoli,Feminino,Pagode,Bebo Socialmente,Não,Não,Diariamente,25,35,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 01:49:50
+157,44,GO,Goiânia,Universitário ,Feminino,Rock,Bebo Socialmente,Não,Sim,Diariamente,39,53,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 01:50:22
+158,32,GO,Goiânia,Conjunto Vera Cruz 2,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,18,43,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 01:50:22
+159,32,DF,Brasília,Asa norte ,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,29,40,Sim,Tanto Faz,Sim,Equilíbrio material/espiritual,2025-04-01 01:51:43
+160,29,SC,Chapecó,Centro,Feminino,Sertanejo,Não Bebo,Não,Não,3x por semana,30,37,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 01:54:11
+161,49,RJ,Rio de Janeiro,Del Castilho ,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,40,55,Não,Sim,Não,Vida simples com família,2025-04-01 01:57:49
+162,43,GO,Cidade Ocidental,Centro ,Feminino,MPB,Bebo Socialmente,Sim,Sim,1x por semana,38,50,Não,Tanto Faz,Não,Vida simples com família,2025-04-01 01:58:11
+163,41,MG,Virgínia,Centro ,Feminino,Sertanejo,Não Bebo,Sim,Sim,Diariamente,40,59,Sim,Não,Sim,Riqueza espiritual,2025-04-01 01:58:29
+164,35,PE,Recife,Jaboatão ,Feminino,MPB,Bebo Socialmente,Não,Não,3x por semana,30,37,Tanto Faz,Não,Não,Vida simples com família,2025-04-01 01:59:07
+165,23,GO,Goiânia,Parque das flores ,Masculino,Rock,Não Bebo,Não,Não,Diariamente,18,26,Sim,Tanto Faz,Sim,Equilíbrio material/espiritual,2025-04-01 02:03:34
+166,50,SP,São Paulo,Jabaquara ,Feminino,MPB,Não Bebo,Sim,Sim,1x por semana,18,18,Sim,Sim,Sim,Vida simples com família,2025-04-01 02:04:32
+167,46,GO,Goiânia,Urias Magalhães ,Feminino,Sertanejo,Não Bebo,Sim,Sim,Diariamente,35,50,Não,Tanto Faz,Não,Vida simples com família,2025-04-01 02:05:51
+168,34,GO,Aparecida de Goiânia,Cidade Vera Cruz ,Feminino,MPB,Não Bebo,Sim,Sim,3x por semana,27,47,Não,Não,Não,Experiências e viagens,2025-04-01 02:06:31
+169,52,MT,Várzea Grande,Várzea Grande ,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,53,58,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-01 02:06:50
+170,28,RJ,São Gonçalo,Vista alegre,Feminino,Rock,Não Bebo,Não,Não,3x por semana,27,35,Sim,Não,Sim,Vida simples com família,2025-04-01 02:06:53
+171,32,GO,Trindade,Centro ,Feminino,Rock,Bebo Socialmente,Sim,Sim,1x por semana,35,42,Não,Não,Não,Vida simples com família,2025-04-01 02:07:21
+172,50,GO,Goiânia,Jardim Atlântico ,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,40,55,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 02:08:53
+173,40,AM,Manaus,Parque 10,Feminino,MPB,Não Bebo,Sim,Sim,3x por semana,30,55,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-01 02:09:09
+174,55,GO,Goiânia,Setor bela vists,Feminino,Pop,Bebo Socialmente,Sim,Sim,Diariamente,49,60,Não,Tanto Faz,Não,Experiências e viagens,2025-04-01 02:09:17
+175,28,GO,Goiânia,Vila nova,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Não gosto,20,35,Tanto Faz,Não,Tanto Faz,Experiências e viagens,2025-04-01 02:12:10
+176,28,SP,São Paulo,JD Umarizal,Masculino,Sertanejo,Não Bebo,Não,Não,1x por semana,24,32,Tanto Faz,Tanto Faz,Sim,Vida simples com família,2025-04-01 02:13:00
+177,30,GO,Goiânia,Bairro da vitoria ,Feminino,Sertanejo,Bebo Socialmente,Não,Sim,3x por semana,30,45,Não,Não,Não,Experiências e viagens,2025-04-01 02:13:25
+178,55,RJ,Rio de Janeiro,Ilha do governador,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,50,60,Não,Não,Não,Experiências e viagens,2025-04-01 02:14:29
+179,34,GO,Goiânia,Jd Goiás ,Feminino,Pagode,Bebo Socialmente,Não,Não,3x por semana,28,43,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 02:15:31
+180,53,GO,Goiânia,Alto da Glória ,Feminino,Pop,Não Bebo,Sim,Sim,3x por semana,45,60,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 02:16:09
+181,64,GO,Itumbiara,Conjunto Santa Helena ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,1x por semana,60,18,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 02:17:07
+182,60,DF,Brasília,Park Way ,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,56,60,Tanto Faz,Não,Não,Experiências e viagens,2025-04-01 02:19:19
+183,30,SP,São Paulo,Vila ré,Masculino,Rock,Bebo Sempre,Não,Não,3x por semana,19,35,Não,Não,Não,Vida simples com família,2025-04-01 02:20:11
+184,22,GO,Goiânia,Garavelo ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,18,35,Sim,Não,Não,Experiências e viagens,2025-04-01 02:21:47
+185,32,GO,Aparecida de Goiânia,Jd olímpico ,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,26,44,Tanto Faz,Sim,Tanto Faz,Vida simples com família,2025-04-01 02:22:05
+186,45,GO,Goiânia,Center Ville ,Feminino,Rock,Bebo Socialmente,Sim,Sim,1x por semana,35,55,Não,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 02:23:28
+187,30,GO,Goiânia,Setor dos Funcionários ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,29,37,Tanto Faz,Sim,Tanto Faz,Experiências e viagens,2025-04-01 02:25:15
+188,38,MG,Contagem,Riacho,Feminino,Pop,Bebo Socialmente,Não,Não,Não gosto,28,46,Sim,Sim,Não,Vida simples com família,2025-04-01 02:26:47
+189,27,GO,Goiânia,Parque Amazônia ,Feminino,Pop,Não Bebo,Não,Não,3x por semana,27,40,Sim,Sim,Sim,Vida simples com família,2025-04-01 02:27:11
+190,27,GO,Goiânia,Centro Oeste,Feminino,Pagode,Bebo Socialmente,Não,Não,Diariamente,22,35,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 02:28:04
+191,43,SP,Diadema,Centro,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,3x por semana,38,48,Não,Não,Não,Experiências e viagens,2025-04-01 02:28:08
+192,44,SP,São José dos Campos,Parque Industrial ,Feminino,MPB,Não Bebo,Sim,Sim,3x por semana,40,46,Não,Sim,Não,Vida simples com família,2025-04-01 02:28:24
+193,32,GO,Itumbiara,Centro ,Feminino,Pagode,Bebo Socialmente,Sim,Não,Diariamente,18,40,Não,Não,Não,Vida simples com família,2025-04-01 02:29:54
+194,30,SP,São Paulo,Vila Mariana,Masculino,Rock,Não Bebo,Não,Não,3x por semana,25,35,Sim,Tanto Faz,Não,Vida simples com família,2025-04-01 02:31:59
+195,36,GO,Goiânia,Não informado ,Feminino,Rock,Não Bebo,Sim,Não,Diariamente,26,44,Não,Não,Não,Experiências e viagens,2025-04-01 02:34:51
+196,33,GO,Goiânia,Bueno ,Feminino,MPB,Bebo Socialmente,Não,Não,Diariamente,30,45,Não,Não,Não,Vida simples com família,2025-04-01 02:41:51
+197,34,MG,Belo Horizonte,Vitória ,Masculino,Sertanejo,Não Bebo,Não,Não,Diariamente,24,45,Não,Tanto Faz,Não,Riqueza espiritual,2025-04-01 02:44:05
+198,44,GO,Anápolis,Jundiaí ,Feminino,Pop,Bebo Socialmente,Não,Sim,3x por semana,40,60,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 02:45:26
+199,46,GO,Goiânia,St Universitario ,Feminino,Rock,Bebo Socialmente,Sim,Sim,1x por semana,40,50,Tanto Faz,Não,Não,Vida simples com família,2025-04-01 02:45:32
+200,50,PR,Curitiba,Juveve,Feminino,MPB,Não Bebo,Sim,Sim,3x por semana,40,58,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-01 02:46:45
+201,31,GO,Goiânia,Novo Horizonte ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,28,40,Sim,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 02:46:48
+202,35,GO,Goiânia,Parque Amazônia ,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,30,45,Não,Não,Não,Vida simples com família,2025-04-01 02:47:20
+203,53,RO,Candeias do Jamari,Palheiral,Feminino,Rock,Bebo Socialmente,Não,Sim,3x por semana,47,60,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 02:49:55
+204,25,GO,Goiânia,Capuava,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,24,40,Tanto Faz,Não,Não,Experiências e viagens,2025-04-01 02:50:52
+205,26,SP,Ribeirão Preto,José Sampaio,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Não gosto,27,42,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 02:55:28
+206,33,SP,Osasco,—-,Feminino,Sertanejo,Bebo Socialmente,Não,Sim,Diariamente,28,39,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 02:57:06
+207,30,GO,Goiânia,Bela vista ,Feminino,Sertanejo,Bebo Socialmente,Não,Sim,Diariamente,30,49,Sim,Não,Não,Equilíbrio material/espiritual,2025-04-01 03:01:18
+208,32,GO,Aparecida de Goiânia,Independência ,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,18,18,Não,Sim,Não,Vida simples com família,2025-04-01 03:02:49
+209,25,SP,Ribeirão Preto,portinari,Masculino,Rock,Não Bebo,Não,Não,Diariamente,18,40,Não,Não,Não,Experiências e viagens,2025-04-01 03:07:14
+210,50,MG,Sete Lagoas,Mata Grande,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,40,55,Não,Não,Não,Riqueza espiritual,2025-04-01 03:10:40
+211,45,PR,Pato Branco,Centro,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,35,55,Não,Não,Não,Riqueza espiritual,2025-04-01 03:10:57
+212,32,PR,São José dos Pinhais,Ipê ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,3x por semana,32,39,Não,Não,Não,Vida simples com família,2025-04-01 03:12:08
+213,28,GO,Goiânia,Cidade Jardim,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,28,34,Sim,Tanto Faz,Sim,Vida simples com família,2025-04-01 03:14:19
+214,24,SC,São José,Colônia Santana ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,25,34,Sim,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 03:17:23
+215,28,GO,Goiânia,Leste universitário ,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,26,33,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 03:19:39
+216,36,MG,Belo Horizonte,Venda Nova,Feminino,MPB,Não Bebo,Não,Sim,3x por semana,33,50,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 03:23:41
+217,48,PR,Curitiba,Ccivico,Feminino,Rock,Não Bebo,Sim,Sim,1x por semana,45,52,Não,Sim,Tanto Faz,Vida simples com família,2025-04-01 03:31:02
+218,30,GO,Aparecida de Goiânia,Residencial Cândido de Queiroz ,Feminino,Rock,Bebo Socialmente,Não,Não,3x por semana,29,40,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 03:31:07
+219,32,GO,Goiânia,Sul,Feminino,Pagode,Nos Finais de Semana,Não,Não,3x por semana,28,40,Sim,Tanto Faz,Não,Experiências e viagens,2025-04-01 03:37:13
+220,36,GO,Goiânia,Urias Magalhães ,Feminino,Sertanejo,Não Bebo,Não,Sim,Diariamente,30,45,Sim,Não,Não,Vida simples com família,2025-04-01 03:39:00
+221,46,GO,Goiânia,Jardim america,Feminino,Rock,Bebo Socialmente,Sim,Sim,1x por semana,36,52,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 03:43:47
+222,28,GO,Goiânia,Vila Santa helena ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,3x por semana,25,43,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 03:45:19
+223,29,SC,Biguaçu,Centro,Feminino,Rock,Não Bebo,Não,Não,Diariamente,28,57,Sim,Não,Não,Vida simples com família,2025-04-01 03:45:45
+224,27,GO,Goiânia,Jardim America ,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,25,45,Não,Não,Não,Experiências e viagens,2025-04-01 03:47:15
+225,40,SP,Campinas,Jd Nova Europa,Feminino,Pagode,Bebo Socialmente,Não,Não,3x por semana,35,50,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 03:48:46
+226,24,SP,São Paulo,Sacomã ,Masculino,Rock,Bebo Socialmente,Não,Não,3x por semana,20,45,Não,Não,Não,Vida simples com família,2025-04-01 04:07:12
+227,28,GO,Goiânia,Vereda dos Buritis,Masculino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,18,32,Sim,Não,Não,Equilíbrio material/espiritual,2025-04-01 04:10:15
+228,56,RS,Canoas,Centro,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,48,60,Não,Não,Não,Experiências e viagens,2025-04-01 04:14:36
+229,40,MG,Pirapora,São Francisco ,Feminino,Pagode,Não Bebo,Sim,Sim,Diariamente,35,54,Não,Tanto Faz,Não,Vida simples com família,2025-04-01 04:16:16
+230,19,GO,Goiânia,Vale dos sonhos ,Feminino,Rock,Bebo Socialmente,Não,Não,1x por semana,19,24,Não,Não,Não,Vida simples com família,2025-04-01 04:29:14
+231,38,SP,Mogi Guaçu,Jardim Serra Dourada ,Feminino,MPB,Bebo Socialmente,Não,Sim,1x por semana,33,48,Sim,Não,Não,Vida simples com família,2025-04-01 04:30:15
+232,32,DF,Brasília,Samambaia sul ,Feminino,Pop,Nos Finais de Semana,Não,Sim,Diariamente,25,40,Não,Não,Não,Experiências e viagens,2025-04-01 04:37:24
+233,34,GO,Goiânia,Parque Atheneu ,Feminino,MPB,Bebo Socialmente,Sim,Sim,3x por semana,35,45,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 04:45:13
+234,24,GO,Aparecida de Goiânia,Jardim Alto Paraíso,Feminino,Rock,Não Bebo,Não,Não,3x por semana,19,23,Sim,Sim,Sim,Equilíbrio material/espiritual,2025-04-01 04:49:37
+235,42,GO,Goiânia,Sudoeste,Masculino,Rock,Bebo Socialmente,Não,Não,Diariamente,30,45,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 04:49:51
+236,30,RS,Canoas,Mato grande,Masculino,Rock,Bebo Socialmente,Não,Não,3x por semana,18,60,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 05:53:28
+237,37,GO,Aparecida de Goiânia,Veiga JD ,Feminino,Rock,Não Bebo,Não,Não,Diariamente,25,50,Sim,Sim,Sim,Experiências e viagens,2025-04-01 07:32:37
+238,24,GO,Goiânia,Alvorada,Feminino,Pop,Bebo Socialmente,Não,Não,3x por semana,26,50,Tanto Faz,Não,Não,Experiências e viagens,2025-04-01 07:36:30
+239,33,GO,Aparecida de Goiânia,Independência Mansões ,Masculino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,20,39,Não,Não,Não,Experiências e viagens,2025-04-01 07:40:42
+240,48,GO,Goiânia,Atheneu ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,40,55,Tanto Faz,Sim,Tanto Faz,Experiências e viagens,2025-04-01 08:18:02
+241,29,GO,Goiânia,Vila nova ,Feminino,MPB,Bebo Socialmente,Não,Sim,Não gosto,18,59,Tanto Faz,Sim,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 08:37:58
+242,53,GO,Goiânia,São Francisco ,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,54,18,Não,Não,Não,Riqueza espiritual,2025-04-01 08:47:34
+243,39,GO,Goiânia,Bueno ,Feminino,Rock,Nos Finais de Semana,Não,Sim,1x por semana,35,45,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 08:59:22
+244,39,BA,Salvador,Pituba ,Feminino,Pop,Nos Finais de Semana,Não,Não,3x por semana,35,49,Tanto Faz,Sim,Não,Riqueza espiritual,2025-04-01 09:03:24
+245,22,TO,Paraíso do Tocantins,Milena ,Feminino,Pop,Não Bebo,Não,Não,3x por semana,20,40,Sim,Sim,Sim,Vida simples com família,2025-04-01 09:07:44
+246,59,MG,Aimorés,Triângulo ,Feminino,MPB,Bebo Socialmente,Sim,Não,3x por semana,50,60,Não,Não,Não,Vida simples com família,2025-04-01 09:07:46
+247,43,PR,Curitiba,Portão ,Feminino,Rock,Bebo Socialmente,Não,Sim,Diariamente,35,49,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 09:17:00
+248,28,SP,São Paulo,Grajaú ,Masculino,Pagode,Nos Finais de Semana,Não,Sim,1x por semana,18,18,Não,Não,Não,Vida simples com família,2025-04-01 09:18:58
+249,29,GO,Aparecida de Goiânia,Jardim Bela Vista,Masculino,Pagode,Não Bebo,Não,Não,Diariamente,24,32,Não,Sim,Não,Experiências e viagens,2025-04-01 09:30:46
+250,29,GO,Aparecida de Goiânia,Jardim Bela Vista,Masculino,Pagode,Não Bebo,Não,Não,Diariamente,23,33,Não,Sim,Não,Experiências e viagens,2025-04-01 09:41:52
+251,52,GO,Goiânia,St bela vista ,Feminino,Rock,Bebo Sempre,Não,Não,1x por semana,50,60,Não,Não,Não,Riqueza espiritual,2025-04-01 09:42:00
+252,38,RN,Mossoró,Alto São Manoel ,Feminino,Rock,Bebo Socialmente,Não,Sim,3x por semana,30,43,Sim,Tanto Faz,Não,Vida simples com família,2025-04-01 09:43:55
+253,37,SP,Pederneiras,Martini ,Feminino,Samba,Bebo Socialmente,Sim,Sim,3x por semana,28,18,Não,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 09:52:11
+254,36,GO,Goiânia,Setor Central,Feminino,Pagode,Bebo Socialmente,Sim,Sim,3x por semana,37,48,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 09:55:18
+255,42,GO,Goianira,Pq das Camélia ,Feminino,Sertanejo,Nos Finais de Semana,Sim,Sim,1x por semana,40,60,Não,Não,Não,Riqueza espiritual,2025-04-01 09:57:15
+256,43,GO,Goiânia,Vila Rosa ,Feminino,MPB,Não Bebo,Sim,Sim,1x por semana,40,53,Não,Sim,Não,Riqueza espiritual,2025-04-01 09:59:22
+257,26,GO,Goiânia,Jardim Guanabara,Feminino,MPB,Não Bebo,Não,Sim,3x por semana,27,30,Sim,Sim,Não,Equilíbrio material/espiritual,2025-04-01 10:10:16
+258,31,GO,Goiânia,Jd planalto,Feminino,Sertanejo,Não Bebo,Não,Não,1x por semana,32,43,Sim,Sim,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 10:11:22
+259,35,PR,Marialva,centro,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,3x por semana,35,50,Não,Não,Não,Vida simples com família,2025-04-01 10:15:32
+260,40,GO,Aparecida de Goiânia,Parque Flamboyant ,Feminino,Sertanejo,Não Bebo,Sim,Sim,Não gosto,40,46,Tanto Faz,Sim,Tanto Faz,Riqueza espiritual,2025-04-01 10:16:44
+261,31,GO,Goiânia,Vila União ,Feminino,Sertanejo,Não Bebo,Sim,Não,1x por semana,31,40,Não,Sim,Não,Riqueza espiritual,2025-04-01 10:21:45
+262,26,GO,Goiânia,Parque Amazônia ,Feminino,MPB,Bebo Socialmente,Não,Não,Diariamente,30,45,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 10:25:21
+263,28,GO,Goiânia,Bueno ,Feminino,Rock,Bebo Socialmente,Não,Sim,3x por semana,35,50,Não,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 10:27:17
+264,23,GO,Goiânia,Vila Brasília ,Masculino,Rock,Não Bebo,Não,Não,Diariamente,18,60,Tanto Faz,Não,Não,Experiências e viagens,2025-04-01 10:28:15
+265,30,GO,Goiânia,Setor Negrão de Lima ,Feminino,Pop,Não Bebo,Não,Não,Diariamente,28,40,Sim,Não,Não,Experiências e viagens,2025-04-01 10:29:16
+266,38,GO,Aparecida de Goiânia,Chácara são Pedro ,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,35,50,Não,Não,Não,Riqueza espiritual,2025-04-01 10:36:04
+267,38,GO,Goiânia,Progresso ,Feminino,Rock,Nos Finais de Semana,Não,Não,3x por semana,37,45,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 10:39:59
+268,41,GO,Goiânia,São José ,Feminino,Sertanejo,Nos Finais de Semana,Sim,Sim,3x por semana,30,55,Sim,Não,Não,Vida simples com família,2025-04-01 10:50:26
+269,30,GO,Goiânia,Negrão de Lima ,Feminino,Pop,Não Bebo,Não,Não,Diariamente,28,40,Sim,Não,Não,Experiências e viagens,2025-04-01 10:58:20
+270,44,GO,Goiânia,Vila Rosa,Feminino,Rock,Nos Finais de Semana,Sim,Sim,Diariamente,36,56,Não,Não,Não,Vida simples com família,2025-04-01 11:03:04
+271,40,MG,Belo Horizonte,Sao gabriel,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,1x por semana,34,40,Não,Tanto Faz,Não,Riqueza espiritual,2025-04-01 11:09:35
+272,30,GO,Goiânia,Jd. Guanabara ,Feminino,Pop,Não Bebo,Não,Sim,Diariamente,28,37,Tanto Faz,Tanto Faz,Não,Vida simples com família,2025-04-01 11:09:46
+273,40,GO,Anápolis,VILA MIGUEL JORGE,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,26,42,Não,Não,Não,Riqueza espiritual,2025-04-01 11:19:03
+274,35,GO,Goiânia,Balneário ,Feminino,MPB,Nos Finais de Semana,Não,Não,1x por semana,30,55,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 11:23:09
+275,25,GO,Goiânia,Recanto do Bosque ,Feminino,Rock,Nos Finais de Semana,Não,Não,Diariamente,23,30,Sim,Não,Sim,Vida simples com família,2025-04-01 11:25:24
+276,39,GO,Goiânia,Negrão de Lima ,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,38,45,Não,Não,Não,Vida simples com família,2025-04-01 11:26:35
+277,38,RJ,Rio de Janeiro,Vista Alegre ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,37,45,Não,Não,Não,Experiências e viagens,2025-04-01 11:29:15
+278,31,GO,Goiânia,Setor Bela Vista ,Feminino,Pagode,Bebo Socialmente,Não,Não,Diariamente,29,37,Não,Tanto Faz,Não,Vida simples com família,2025-04-01 11:29:44
+279,27,SC,Florianópolis,Estreito ,Masculino,Sertanejo,Não Bebo,Não,Não,Diariamente,18,30,Não,Não,Não,Riqueza espiritual,2025-04-01 11:44:35
+280,33,GO,Goiânia,Jardim América ,Feminino,Sertanejo,Nos Finais de Semana,Sim,Sim,3x por semana,30,42,Não,Não,Não,Riqueza espiritual,2025-04-01 11:46:19
+281,43,SP,São Paulo,Tatuape ,Feminino,Pop,Bebo Socialmente,Não,Sim,1x por semana,35,60,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 11:47:30
+282,28,GO,Goiânia,Vila nova ,Feminino,MPB,Bebo Socialmente,Sim,Não,3x por semana,24,37,Não,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 11:54:21
+283,41,GO,Goiânia,Parque Amazônia ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,3x por semana,40,45,Não,Não,Não,Vida simples com família,2025-04-01 12:08:02
+284,31,GO,Goiânia,Leste universitário ,Feminino,MPB,Bebo Socialmente,Não,Não,3x por semana,27,35,Sim,Não,Não,Equilíbrio material/espiritual,2025-04-01 12:09:15
+285,31,CE,Pacajus,Centro ,Feminino,Pop,Bebo Socialmente,Não,Não,3x por semana,30,36,Sim,Não,Não,Vida simples com família,2025-04-01 12:10:27
+286,33,GO,Goiânia,Granville,Feminino,Pagode,Nos Finais de Semana,Não,Não,Diariamente,29,40,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 12:17:56
+287,42,GO,Goiânia,Setor Sul,Feminino,Pop,Bebo Socialmente,Sim,Sim,3x por semana,42,48,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 12:28:31
+288,25,RO,Porto Velho,Marcos freires ,Feminino,MPB,Não Bebo,Não,Não,3x por semana,25,28,Tanto Faz,Sim,Não,Riqueza espiritual,2025-04-01 12:28:53
+289,33,SP,Lorena,Vila passos ,Masculino,Rock,Bebo Socialmente,Não,Sim,Diariamente,18,36,Tanto Faz,Sim,Tanto Faz,Vida simples com família,2025-04-01 12:40:45
+290,47,GO,Goiânia,Universitário ,Feminino,MPB,Não Bebo,Não,Não,Diariamente,44,53,Não,Sim,Não,Riqueza espiritual,2025-04-01 12:46:27
+291,27,MG,Juiz de Fora,Centro ,Feminino,MPB,Não Bebo,Não,Não,3x por semana,26,38,Sim,Não,Não,Vida simples com família,2025-04-01 12:46:46
+292,29,GO,Goiânia,Leste universitário ,Feminino,Pop,Bebo Socialmente,Não,Não,Não gosto,27,35,Tanto Faz,Não,Não,Experiências e viagens,2025-04-01 12:47:33
+293,26,GO,Goiânia,Parque Amazônia ,Feminino,MPB,Bebo Socialmente,Não,Não,Diariamente,30,45,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-01 12:49:18
+294,33,GO,Goiânia,Leste universitário ,Masculino,Sertanejo,Nos Finais de Semana,Não,Não,Diariamente,25,34,Não,Não,Não,Vida simples com família,2025-04-01 12:49:26
+295,35,GO,Goiânia,Bairro goiá,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,35,45,Não,Não,Não,Riqueza espiritual,2025-04-01 12:50:27
+296,34,BA,Camaçari,Itacimirim ,Feminino,MPB,Não Bebo,Sim,Sim,1x por semana,33,41,Não,Sim,Não,Riqueza espiritual,2025-04-01 12:58:32
+297,43,GO,Goiânia,Leste Vila Nova ,Feminino,Rock,Bebo Socialmente,Não,Não,1x por semana,30,55,Não,Não,Não,Vida simples com família,2025-04-01 13:02:51
+298,39,SP,São José dos Campos,Jardim Oswaldo Cruz,Masculino,Rock,Não Bebo,Não,Sim,Diariamente,30,40,Tanto Faz,Sim,Não,Riqueza espiritual,2025-04-01 13:06:37
+299,31,GO,Goiânia,Esmeraldas ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,30,41,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 13:08:09
+300,22,GO,Goiânia,Goiania 2,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,22,35,Não,Não,Não,Vida simples com família,2025-04-01 13:18:27
+301,33,SC,Blumenau,Passo Manso /  Água verde,Feminino,Rock,Bebo Socialmente,Não,Não,3x por semana,28,42,Sim,Sim,Tanto Faz,Experiências e viagens,2025-04-01 13:20:49
+302,52,GO,Goiânia,Faz. São Domingos.,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,52,57,Não,Tanto Faz,Não,Equilíbrio material/espiritual,2025-04-01 13:24:57
+303,38,DF,Brasília,Águas Claras ,Feminino,MPB,Não Bebo,Não,Sim,Diariamente,30,49,Tanto Faz,Sim,Não,Vida simples com família,2025-04-01 13:27:47
+304,35,GO,Goiânia,Jd América ,Feminino,Pagode,Não Bebo,Sim,Não,Diariamente,30,50,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 13:30:04
+305,39,SP,São Paulo,Vila Prudente,Masculino,Rock,Bebo Socialmente,Não,Sim,Diariamente,31,42,Não,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 13:31:25
+306,34,GO,Goiânia,Vila Jaraguá ,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,25,60,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 13:40:18
+307,45,GO,Goiânia,Centro,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,1x por semana,30,45,Não,Não,Não,Experiências e viagens,2025-04-01 13:52:07
+308,47,GO,Goiânia,Eldorado ,Feminino,Sertanejo,Nos Finais de Semana,Sim,Sim,1x por semana,37,55,Não,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 13:52:49
+309,26,GO,Goiânia,Jardim helvécia ,Feminino,Sertanejo,Bebo Socialmente,Sim,Não,Diariamente,26,34,Não,Não,Não,Vida simples com família,2025-04-01 13:55:26
+310,24,GO,Goiânia,Goiania 2,Feminino,Rock,Não Bebo,Não,Não,3x por semana,18,28,Sim,Sim,Sim,Experiências e viagens,2025-04-01 13:56:03
+311,33,SP,São Paulo,Brás ,Masculino,Sertanejo,Não Bebo,Sim,Sim,Diariamente,20,35,Sim,Não,Não,Experiências e viagens,2025-04-01 14:04:22
+312,26,GO,Goiânia,Vera Cruz 2 ,Feminino,MPB,Bebo Sempre,Não,Não,Diariamente,18,50,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 14:05:54
+313,52,GO,Goiânia,Alto da Glória ,Feminino,MPB,Bebo Socialmente,Sim,Não,1x por semana,44,52,Não,Não,Não,Vida simples com família,2025-04-01 14:06:03
+314,55,SP,São Bernardo do Campo,Rudge Ramos,Masculino,Rock,Não Bebo,Sim,Sim,1x por semana,36,56,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 14:09:31
+315,42,GO,Inhumas,Centro ,Feminino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,39,45,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-01 14:10:29
+316,36,GO,Valparaíso de Goiás,Cidade Jardins ,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,30,45,Não,Sim,Não,Vida simples com família,2025-04-01 14:11:25
+317,31,GO,Goiânia,Parque Amazônia ,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,30,42,Não,Não,Não,Vida simples com família,2025-04-01 14:11:51
+318,30,SC,Blumenau,Centro,Feminino,Pop,Não Bebo,Não,Não,Diariamente,18,35,Não,Não,Não,Vida simples com família,2025-04-01 14:21:50
+319,25,GO,Aparecida de Goiânia,Nova olinda,Feminino,MPB,Bebo Socialmente,Sim,Não,Não gosto,25,60,Não,Não,Não,Riqueza espiritual,2025-04-01 14:29:21
+320,30,GO,Goiânia,Região Noroeste,Feminino,MPB,Bebo Socialmente,Não,Sim,1x por semana,18,40,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 14:29:26
+321,52,MG,Nova Lima,Cascalho,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,45,60,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 14:35:46
+322,34,GO,Goiânia,Bairro Goiá,Feminino,Rock,Não Bebo,Sim,Sim,3x por semana,35,45,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-01 14:37:22
+323,39,GO,Rio Verde,Girassóis ,Feminino,MPB,Bebo Socialmente,Sim,Sim,1x por semana,32,55,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 14:40:26
+324,45,GO,Goiânia,Marista,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,35,60,Não,Sim,Não,Riqueza espiritual,2025-04-01 14:48:41
+325,39,SP,São Paulo,Butantã ,Masculino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,35,42,Tanto Faz,Não,Não,Riqueza espiritual,2025-04-01 14:49:45
+326,45,GO,Goiânia,Itatiaia ,Feminino,MPB,Bebo Socialmente,Não,Sim,3x por semana,45,55,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 15:00:39
+327,35,GO,Senador Canedo,Residencial paraíso ,Feminino,Pop,Não Bebo,Sim,Sim,1x por semana,23,36,Não,Tanto Faz,Não,Vida simples com família,2025-04-01 15:04:38
+328,31,SC,Blumenau,Itoupava seca ,Feminino,Pagode,Bebo Socialmente,Sim,Sim,Diariamente,30,48,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 15:05:28
+329,54,SP,São Paulo,Itaquera ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,3x por semana,38,18,Não,Tanto Faz,Não,Riqueza espiritual,2025-04-01 15:13:14
+330,36,SE,Aracaju,Atalaia,Feminino,Rock,Bebo Socialmente,Não,Não,3x por semana,30,43,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 15:15:56
+331,23,GO,Goiânia,Jardim liberdade ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,3x por semana,23,28,Sim,Tanto Faz,Sim,Experiências e viagens,2025-04-01 15:21:49
+332,40,GO,Aparecida de Goiânia,Buriti sereno ,Feminino,Pagode,Nos Finais de Semana,Sim,Não,Diariamente,27,40,Não,Não,Não,Vida simples com família,2025-04-01 15:22:33
+333,39,SP,São Paulo,Campos Elíseos,Masculino,Rock,Não Bebo,Não,Não,3x por semana,28,39,Tanto Faz,Sim,Sim,Vida simples com família,2025-04-01 15:26:29
+334,61,GO,Trindade,Maysa,Feminino,MPB,Bebo Socialmente,Não,Não,Diariamente,50,60,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 15:26:40
+335,60,GO,Goiânia,Crimeia Leste,Feminino,MPB,Não Bebo,Sim,Sim,1x por semana,55,60,Não,Tanto Faz,Não,Equilíbrio material/espiritual,2025-04-01 15:27:31
+336,22,GO,Goiânia,Setor Sul ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,1x por semana,23,50,Sim,Não,Sim,Vida simples com família,2025-04-01 15:28:59
+337,34,RS,Pelotas,Centro,Feminino,Rock,Nos Finais de Semana,Não,Não,3x por semana,18,50,Não,Não,Não,Vida simples com família,2025-04-01 15:29:32
+338,37,GO,Goiânia,Parque Amazônia ,Feminino,Rock,Não Bebo,Não,Sim,Diariamente,30,39,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 15:33:55
+339,34,GO,Goiânia,Jardim América ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,28,45,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 15:38:45
+340,29,GO,Anápolis,Jaiara,Feminino,MPB,Bebo Socialmente,Não,Sim,Diariamente,24,40,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 15:42:59
+341,32,GO,Goiânia,Vera Cruz ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,3x por semana,25,55,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 15:48:39
+342,34,GO,Goiânia,Setor Pedro,Feminino,Sertanejo,Não Bebo,Não,Não,1x por semana,29,42,Sim,Sim,Sim,Equilíbrio material/espiritual,2025-04-01 15:51:05
+343,50,SC,Blumenau,Itoupavazinha ,Masculino,Rock,Não Bebo,Sim,Sim,Diariamente,39,52,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 15:53:56
+344,36,GO,Goiânia,Leste universitário ,Feminino,Pagode,Nos Finais de Semana,Não,Sim,3x por semana,30,40,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 15:54:02
+345,34,SP,Ribeirão Preto,Quinta da Primavera,Feminino,MPB,Bebo Socialmente,Não,Não,1x por semana,30,42,Tanto Faz,Não,Não,Vida simples com família,2025-04-01 15:57:44
+346,36,GO,Goiânia,Goiá ,Feminino,Rock,Bebo Socialmente,Sim,Sim,1x por semana,25,50,Não,Não,Não,Riqueza espiritual,2025-04-01 16:05:01
+347,49,GO,Goiânia,Recanto do Bosque ,Feminino,Pop,Não Bebo,Sim,Sim,Não gosto,45,60,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-01 16:06:16
+348,38,MG,Belo Horizonte,Concórdia,Feminino,MPB,Bebo Socialmente,Sim,Sim,1x por semana,30,60,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 16:11:20
+349,38,GO,Goiânia,Pq Atheneu ,Feminino,Pagode,Não Bebo,Sim,Sim,3x por semana,35,47,Tanto Faz,Sim,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 16:12:34
+350,33,RJ,Iguaba Grande,Cidade Nova,Masculino,Pop,Não Bebo,Não,Sim,Diariamente,30,37,Sim,Sim,Não,Experiências e viagens,2025-04-01 16:18:02
+351,29,GO,Goiânia,Setor Centro,Feminino,Pagode,Bebo Socialmente,Não,Não,Diariamente,26,37,Sim,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 16:22:00
+352,28,GO,Goiânia,Alto da Glória ,Masculino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,18,40,Tanto Faz,Não,Não,Experiências e viagens,2025-04-01 16:22:00
+353,48,MS,Campo Grande,Vila Carlota,Feminino,Sertanejo,Não Bebo,Sim,Sim,Não gosto,35,53,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 16:28:01
+354,53,GO,Goiânia,Conjunto Caiçara,Feminino,Pop,Bebo Socialmente,Sim,Sim,3x por semana,45,60,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 16:28:04
+355,47,SP,São Paulo,Carrão ,Feminino,Rock,Não Bebo,Sim,Sim,Diariamente,45,48,Não,Sim,Não,Experiências e viagens,2025-04-01 16:36:36
+356,48,SP,Ribeirão Preto,Jardim Canadá ,Feminino,MPB,Bebo Socialmente,Não,Sim,3x por semana,45,57,Tanto Faz,Tanto Faz,Não,Equilíbrio material/espiritual,2025-04-01 16:37:03
+357,43,GO,Goiânia,Jardim olímpico ,Feminino,MPB,Não Bebo,Não,Não,1x por semana,30,50,Tanto Faz,Sim,Não,Experiências e viagens,2025-04-01 16:47:40
+358,23,GO,Goiânia,Setor Bueno ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,25,40,Não,Não,Não,Vida simples com família,2025-04-01 16:52:12
+359,30,GO,Aparecida de Goiânia,Vila mariana ,Feminino,Sertanejo,Não Bebo,Não,Não,Diariamente,24,49,Não,Não,Não,Experiências e viagens,2025-04-01 16:59:56
+360,22,PB,João Pessoa,Bancarios,Feminino,MPB,Bebo Socialmente,Não,Não,Diariamente,20,35,Não,Não,Não,Experiências e viagens,2025-04-01 17:12:11
+361,32,GO,Goiânia,Setor oeste,Feminino,Rock,Nos Finais de Semana,Não,Não,1x por semana,30,48,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 17:23:32
+362,31,GO,Goiânia,Negrão de Lima ,Feminino,Pagode,Nos Finais de Semana,Não,Não,Diariamente,28,40,Não,Não,Não,Experiências e viagens,2025-04-01 17:24:08
+363,38,GO,Goiânia,Setor campinas ,Feminino,Sertanejo,Não Bebo,Sim,Não,3x por semana,38,42,Não,Tanto Faz,Não,Vida simples com família,2025-04-01 17:34:27
+364,27,PB,João Pessoa,Bancários,Feminino,MPB,Bebo Socialmente,Não,Não,Diariamente,32,42,Não,Não,Não,Vida simples com família,2025-04-01 17:38:37
+365,31,GO,Goiânia,Residencial Eldorado ,Feminino,Pagode,Bebo Socialmente,Não,Não,Diariamente,30,35,Sim,Não,Não,Vida simples com família,2025-04-01 17:41:20
+366,38,BA,Vitória da Conquista,São Vicente ,Feminino,MPB,Não Bebo,Sim,Sim,1x por semana,33,60,Tanto Faz,Sim,Tanto Faz,Vida simples com família,2025-04-01 17:51:07
+367,47,GO,Aparecida de Goiânia,Independência ,Feminino,Sertanejo,Não Bebo,Sim,Não,Diariamente,37,57,Não,Não,Não,Experiências e viagens,2025-04-01 17:54:32
+368,46,AL,Maceió,Cruz das Almas,Feminino,MPB,Não Bebo,Não,Sim,Diariamente,39,59,Não,Não,Não,Vida simples com família,2025-04-01 17:54:58
+369,44,SP,São Paulo,Tatuapé ,Feminino,Pagode,Nos Finais de Semana,Sim,Não,Diariamente,35,50,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 17:59:37
+370,21,GO,Goianira,vila adilair ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,22,35,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 18:08:38
+371,34,GO,Goiânia,Setor leste universitário ,Feminino,Pagode,Nos Finais de Semana,Não,Não,3x por semana,29,45,Não,Não,Não,Riqueza espiritual,2025-04-01 18:09:21
+372,27,GO,Goiânia,Jardim América ,Feminino,MPB,Não Bebo,Não,Não,Diariamente,28,38,Sim,Sim,Não,Vida simples com família,2025-04-01 18:13:21
+373,49,GO,Goiânia,Jardim Fonte Nova,Feminino,Rock,Nos Finais de Semana,Sim,Sim,Diariamente,40,60,Não,Não,Não,Vida simples com família,2025-04-01 18:19:58
+374,33,GO,Senador Canedo,Flor do ipê ,Feminino,Rock,Não Bebo,Sim,Sim,1x por semana,30,50,Sim,Sim,Não,Riqueza espiritual,2025-04-01 18:21:23
+375,23,GO,Goiânia,Coimbra ,Masculino,Rock,Nos Finais de Semana,Não,Não,Diariamente,18,55,Não,Não,Não,Vida simples com família,2025-04-01 18:25:27
+376,29,GO,Goiânia,Vila Alpes,Feminino,Pagode,Nos Finais de Semana,Não,Não,3x por semana,27,50,Não,Não,Não,Experiências e viagens,2025-04-01 18:40:16
+377,31,SC,Blumenau,Itoupava seca,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,35,40,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 18:44:50
+378,27,GO,Abadiânia,Planalmira,Masculino,Rock,Não Bebo,Não,Não,3x por semana,18,37,Sim,Sim,Sim,Experiências e viagens,2025-04-01 18:50:56
+379,38,GO,Goiânia,Negrão de lima ,Feminino,Pagode,Não Bebo,Não,Não,Diariamente,34,43,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 18:59:47
+380,32,GO,Goiânia,Santa Genoveva ,Masculino,Rock,Nos Finais de Semana,Não,Não,3x por semana,24,60,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 19:00:47
+381,50,GO,Goiânia,Cidade Jardim ,Feminino,Rock,Não Bebo,Sim,Sim,3x por semana,40,55,Não,Não,Não,Experiências e viagens,2025-04-01 19:00:54
+382,31,GO,Goiânia,Marista,Feminino,Rock,Não Bebo,Não,Sim,Não gosto,29,40,Sim,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 19:09:02
+383,33,PR,Curitiba,Santa Quiteria,Masculino,Rock,Não Bebo,Não,Não,Diariamente,18,40,Sim,Não,Não,Equilíbrio material/espiritual,2025-04-01 19:14:33
+384,40,RS,Porto Alegre,Cidade Baixa,Masculino,Rock,Não Bebo,Não,Não,3x por semana,18,35,Não,Não,Não,Vida simples com família,2025-04-01 19:26:52
+385,30,RJ,Rio de Janeiro,Realengo,Masculino,Rock,Nos Finais de Semana,Não,Não,Diariamente,24,31,Sim,Não,Sim,Vida simples com família,2025-04-01 19:32:59
+386,37,GO,Goiânia,Parque Amazônia ,Masculino,Pop,Não Bebo,Não,Não,Diariamente,18,40,Sim,Sim,Tanto Faz,Experiências e viagens,2025-04-01 19:33:40
+387,26,GO,Goiânia,Jardim América,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,27,35,Não,Não,Não,Experiências e viagens,2025-04-01 19:47:41
+388,33,GO,Senador Canedo,Canedo 3,Feminino,Sertanejo,Nos Finais de Semana,Não,Sim,3x por semana,18,33,Tanto Faz,Não,Não,Vida simples com família,2025-04-01 19:49:39
+389,33,SC,Rio do Sul,Centro ,Masculino,Sertanejo,Bebo Socialmente,Sim,Sim,1x por semana,18,40,Não,Não,Não,Vida simples com família,2025-04-01 19:50:47
+390,18,GO,Aparecida de Goiânia,Papillon Park,Feminino,Sertanejo,Nos Finais de Semana,Sim,Sim,Diariamente,18,40,Não,Não,Não,Vida simples com família,2025-04-01 19:51:27
+391,36,GO,Aparecida de Goiânia,Jardim Nova Era ,Feminino,Samba,Não Bebo,Não,Sim,1x por semana,33,40,Sim,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 20:00:20
+392,32,DF,Brasília,Taguatinga (cidade),Feminino,Samba,Não Bebo,Sim,Sim,Diariamente,33,46,Não,Não,Não,Experiências e viagens,2025-04-01 20:18:14
+393,46,GO,Goiânia,Jardim América ,Feminino,Rock,Bebo Socialmente,Sim,Sim,1x por semana,36,50,Não,Não,Não,Equilíbrio material/espiritual,2025-04-01 20:27:40
+394,26,SP,São Paulo,Vila gustavo,Feminino,Rock,Não Bebo,Não,Não,Diariamente,22,27,Sim,Não,Tanto Faz,Experiências e viagens,2025-04-01 20:30:48
+395,38,SP,São Paulo,Pedreira Interlagos ,Feminino,Pagode,Bebo Socialmente,Sim,Sim,Não gosto,32,43,Não,Não,Não,Vida simples com família,2025-04-01 20:44:01
+396,34,PE,Cabo de Santo Agostinho,Recife ,Masculino,MPB,Bebo Socialmente,Não,Não,Diariamente,18,37,Tanto Faz,Tanto Faz,Não,Vida simples com família,2025-04-01 20:45:24
+397,30,RS,Canoas,Mato grande,Masculino,Rock,Não Bebo,Não,Não,3x por semana,18,60,Sim,Tanto Faz,Sim,Experiências e viagens,2025-04-01 21:00:01
+398,39,SC,Blumenau,Vila Itoupava ,Feminino,Pagode,Bebo Socialmente,Sim,Sim,Diariamente,30,44,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 21:10:17
+399,42,SC,Blumenau,Salto do Norte ,Masculino,Sertanejo,Bebo Socialmente,Não,Sim,3x por semana,28,40,Sim,Não,Não,Vida simples com família,2025-04-01 21:25:08
+400,35,SC,Blumenau,Bom retiro ,Feminino,Rock,Nos Finais de Semana,Sim,Não,Diariamente,18,50,Não,Não,Tanto Faz,Vida simples com família,2025-04-01 21:26:07
+401,48,GO,Goiânia,Sudoeste ,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,40,50,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-01 21:30:00
+402,31,GO,Goiânia,Garavelo,Feminino,Rock,Não Bebo,Não,Sim,3x por semana,28,40,Sim,Sim,Tanto Faz,Vida simples com família,2025-04-01 21:35:33
+403,47,GO,Goiânia,Goiânia 2 ,Feminino,Pagode,Bebo Socialmente,Não,Sim,Diariamente,28,45,Tanto Faz,Não,Não,Vida simples com família,2025-04-01 21:37:06
+404,38,DF,Brasília,Taguatinga,Masculino,Rock,Não Bebo,Não,Não,3x por semana,18,42,Sim,Sim,Tanto Faz,Riqueza espiritual,2025-04-01 21:49:29
+405,35,GO,Goiânia,Jardim Guanabara ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,30,37,Não,Sim,Sim,Riqueza espiritual,2025-04-01 21:57:54
+406,32,GO,Uruaçu,Central,Feminino,Sertanejo,Não Bebo,Não,Não,3x por semana,28,40,Não,Não,Não,Vida simples com família,2025-04-01 22:06:14
+407,34,GO,Goiânia,Setor Pedro ,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,33,43,Não,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 22:06:23
+408,24,GO,Goiânia,Jardim Goiás ,Feminino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,18,50,Não,Não,Não,Experiências e viagens,2025-04-01 22:22:13
+409,38,SP,Ribeirão Bonito,Morumbi 2,Feminino,Pagode,Não Bebo,Sim,Sim,Diariamente,28,45,Não,Não,Não,Riqueza espiritual,2025-04-01 22:32:15
+410,53,GO,Goiânia,Jardim Nova Esperança ,Feminino,Sertanejo,Bebo Socialmente,Não,Sim,3x por semana,46,58,Tanto Faz,Não,Tanto Faz,Riqueza espiritual,2025-04-01 22:32:53
+411,27,GO,Aparecida de Goiânia,Garavelo ,Feminino,Rock,Não Bebo,Não,Não,Diariamente,27,34,Sim,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 22:41:49
+412,28,PR,Curitiba,Cajuru ,Masculino,MPB,Bebo Socialmente,Sim,Não,Diariamente,19,45,Tanto Faz,Sim,Tanto Faz,Experiências e viagens,2025-04-01 22:42:02
+413,43,RS,São Francisco de Paula,Centro,Masculino,Samba,Não Bebo,Não,Sim,Diariamente,25,55,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-01 22:46:12
+414,39,GO,Goiânia,Vila Nova,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,39,47,Sim,Sim,Sim,Vida simples com família,2025-04-01 22:53:23
+415,44,SP,Limeira,Vila Santa Lúcia ,Feminino,Rock,Bebo Socialmente,Não,Sim,3x por semana,38,53,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 22:55:09
+416,38,RJ,Rio de Janeiro,Eng de Dentro,Feminino,Pagode,Bebo Socialmente,Sim,Sim,1x por semana,36,44,Tanto Faz,Tanto Faz,Tanto Faz,Riqueza espiritual,2025-04-01 22:58:50
+417,44,CE,Fortaleza,Conjunto Ceará,Masculino,Rock,Nos Finais de Semana,Não,Não,Diariamente,28,42,Sim,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 23:07:15
+418,32,GO,Goiânia,Campinas,Masculino,MPB,Não Bebo,Não,Não,1x por semana,21,32,Sim,Sim,Sim,Vida simples com família,2025-04-01 23:07:54
+419,40,GO,Goianira,Centro,Masculino,Rock,Não Bebo,Não,Não,Diariamente,20,32,Sim,Não,Sim,Equilíbrio material/espiritual,2025-04-01 23:10:16
+420,36,SC,Joinville,Jardim Iririú,Masculino,Pagode,Não Bebo,Não,Não,Diariamente,25,40,Tanto Faz,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-01 23:18:36
+421,30,RJ,Rio de Janeiro,Copacabana ,Masculino,Sertanejo,Bebo Socialmente,Não,Não,Diariamente,40,40,Não,Não,Não,Riqueza espiritual,2025-04-01 23:19:23
+422,33,SP,São Paulo,Santo Amaro ,Feminino,Rock,Bebo Socialmente,Não,Não,1x por semana,18,45,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-01 23:20:02
+423,27,GO,Goiânia,Centro,Masculino,Sertanejo,Nos Finais de Semana,Não,Não,1x por semana,18,30,Não,Não,Não,Experiências e viagens,2025-04-01 23:23:47
+424,37,MS,São Gabriel do Oeste,Centro ,Feminino,Pagode,Não Bebo,Sim,Sim,Diariamente,35,45,Não,Sim,Não,Riqueza espiritual,2025-04-01 23:24:17
+425,37,CE,Santa Quitéria,Centro ,Masculino,Rock,Bebo Socialmente,Não,Não,1x por semana,25,32,Sim,Não,Sim,Riqueza espiritual,2025-04-01 23:36:36
+426,48,PR,Curitiba,Água verde,Masculino,Rock,Bebo Socialmente,Não,Não,Diariamente,35,50,Não,Não,Não,Vida simples com família,2025-04-01 23:50:02
+427,45,SP,Campinas,Cambui,Feminino,Pop,Não Bebo,Sim,Sim,1x por semana,36,55,Não,Sim,Não,Riqueza espiritual,2025-04-01 23:56:41
+428,45,GO,Catalão,Ipanema ,Feminino,Rock,Bebo Socialmente,Não,Sim,3x por semana,40,55,Tanto Faz,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-02 00:01:29
+429,35,GO,Goiânia,Barravento ,Feminino,Rock,Nos Finais de Semana,Não,Não,Diariamente,30,45,Sim,Não,Não,Riqueza espiritual,2025-04-02 00:04:28
+430,33,GO,Goiânia,Eldorado,Masculino,Pagode,Bebo Socialmente,Não,Não,3x por semana,18,35,Sim,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-02 00:17:41
+431,39,GO,Goiânia,Parque das Laranjeiras ,Feminino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,30,49,Não,Não,Não,Equilíbrio material/espiritual,2025-04-02 00:20:36
+432,59,RJ,Rio de Janeiro,Bento Ribeiro ,Feminino,Pop,Não Bebo,Sim,Sim,Diariamente,45,60,Não,Sim,Não,Vida simples com família,2025-04-02 00:31:54
+433,33,PE,Recife,Boa viagem ,Feminino,Rock,Não Bebo,Não,Não,Diariamente,30,46,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-02 00:54:09
+434,32,GO,Goiânia,Jd colorado,Feminino,Rock,Bebo Socialmente,Não,Sim,Diariamente,28,39,Tanto Faz,Não,Não,Experiências e viagens,2025-04-02 00:54:11
+435,51,PR,Curitiba,Capão da Imbuia ,Masculino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,27,54,Não,Não,Não,Vida simples com família,2025-04-02 01:00:36
+436,33,SP,São Sebastião da Grama,Centro ,Masculino,Sertanejo,Bebo Socialmente,Sim,Não,Diariamente,24,35,Não,Não,Não,Vida simples com família,2025-04-02 01:58:15
+437,34,BA,Salvador,Cabula,Feminino,Samba,Bebo Socialmente,Não,Não,Diariamente,30,45,Sim,Não,Não,Experiências e viagens,2025-04-02 02:26:46
+438,34,BA,Ilhéus,Savoia ,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,35,41,Tanto Faz,Não,Não,Equilíbrio material/espiritual,2025-04-02 02:36:05
+439,35,GO,Goiânia,Centro,Feminino,Rock,Nos Finais de Semana,Não,Não,3x por semana,30,42,Sim,Não,Não,Equilíbrio material/espiritual,2025-04-02 02:44:46
+440,33,SP,São Paulo,Cambuci,Masculino,Sertanejo,Não Bebo,Não,Não,Diariamente,23,40,Sim,Tanto Faz,Não,Vida simples com família,2025-04-02 03:39:31
+441,27,RJ,Rio das Ostras,Âncora ,Feminino,MPB,Não Bebo,Sim,Sim,Diariamente,25,37,Não,Não,Não,Vida simples com família,2025-04-02 05:18:59
+442,47,SP,Santo André,Jd do Estádio ,Masculino,Rock,Bebo Socialmente,Não,Sim,Diariamente,35,46,Não,Sim,Não,Experiências e viagens,2025-04-02 06:55:03
+443,43,SP,São Paulo,Itaim Paulista l,Masculino,Rock,Não Bebo,Não,Não,1x por semana,25,45,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-02 10:44:39
+444,37,PE,Santa Cruz do Capibaribe,Centro,Masculino,Rock,Não Bebo,Sim,Sim,3x por semana,18,30,Tanto Faz,Sim,Tanto Faz,Riqueza espiritual,2025-04-02 10:46:43
+445,46,SP,Marília,Bassan,Feminino,Rock,Bebo Socialmente,Sim,Sim,3x por semana,38,55,Não,Tanto Faz,Não,Vida simples com família,2025-04-02 10:47:53
+446,35,CE,Fortaleza,Parquelandia ,Masculino,Rock,Bebo Socialmente,Não,Não,3x por semana,25,38,Sim,Tanto Faz,Sim,Vida simples com família,2025-04-02 11:12:29
+447,34,GO,Goiânia,Setor Bela Vista ,Feminino,Rock,Bebo Socialmente,Não,Não,1x por semana,25,35,Sim,Não,Não,Experiências e viagens,2025-04-02 11:13:20
+448,41,SC,Itajaí,Fazenda,Feminino,Pop,Bebo Socialmente,Sim,Sim,Não gosto,28,48,Tanto Faz,Não,Não,Vida simples com família,2025-04-02 11:31:52
+449,53,SP,Jundiaí,Engordadouro ,Masculino,Rock,Bebo Socialmente,Sim,Sim,Diariamente,33,47,Não,Não,Não,Equilíbrio material/espiritual,2025-04-02 11:33:34
+450,42,SC,Florianópolis,Jurere ,Masculino,Rock,Bebo Socialmente,Não,Sim,Diariamente,23,40,Sim,Não,Não,Equilíbrio material/espiritual,2025-04-02 11:50:02
+451,32,RS,Porto Alegre,Jardim carvalho ,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,18,43,Sim,Não,Não,Vida glamourosa,2025-04-02 12:32:53
+452,51,GO,Jataí,Residencial Brisas,Feminino,Sertanejo,Não Bebo,Sim,Sim,Diariamente,49,59,Não,Sim,Não,Equilíbrio material/espiritual,2025-04-02 13:13:59
+453,28,SP,São Paulo,Centro,Feminino,MPB,Bebo Socialmente,Não,Não,1x por semana,25,36,Tanto Faz,Não,Não,Vida simples com família,2025-04-02 14:13:38
+454,34,SP,Osasco,Bela vista ,Masculino,Pop,Bebo Socialmente,Não,Sim,Diariamente,24,30,Sim,Tanto Faz,Não,Riqueza espiritual,2025-04-02 14:41:17
+455,38,RN,Natal,Neopolis ,Masculino,Sertanejo,Bebo Socialmente,Sim,Sim,Diariamente,18,45,Tanto Faz,Tanto Faz,Tanto Faz,Vida glamourosa,2025-04-02 14:44:33
+456,28,SP,São Paulo,Jd. Anhanguera ,Masculino,Rock,Não Bebo,Não,Não,Diariamente,23,35,Sim,Sim,Tanto Faz,Equilíbrio material/espiritual,2025-04-02 17:01:56
+457,37,GO,Goiânia,Parque das Laranjeiras,Masculino,Rock,Nos Finais de Semana,Sim,Sim,Diariamente,25,37,Não,Tanto Faz,Tanto Faz,Vida simples com família,2025-04-02 18:55:36
+458,39,PR,Curitiba,Pinheirinho ,Masculino,Rock,Não Bebo,Sim,Sim,3x por semana,25,35,Sim,Sim,Sim,Equilíbrio material/espiritual,2025-04-02 20:34:32
+459,34,MS,Campo Grande,Vilas boas,Masculino,Rock,Nos Finais de Semana,Não,Sim,3x por semana,18,35,Sim,Tanto Faz,Tanto Faz,Equilíbrio material/espiritual,2025-04-02 20:52:58
+460,30,GO,Goiânia,Bueno,Feminino,Pagode,Nos Finais de Semana,Não,Não,1x por semana,38,55,Não,Não,Não,Riqueza espiritual,2025-04-02 22:10:14
+461,29,GO,Goiânia,Setor leste vila nova ,Feminino,Rock,Bebo Socialmente,Não,Não,Diariamente,30,40,Não,Não,Não,Equilíbrio material/espiritual,2025-04-02 23:05:25
+462,49,SP,São Paulo,Mandaqui,Masculino,Sertanejo,Não Bebo,Sim,Sim,Diariamente,35,49,Não,Não,Não,Experiências e viagens,2025-04-02 23:36:37
+463,39,SP,São Paulo,Butantã ,Masculino,Pagode,Bebo Socialmente,Sim,Sim,Diariamente,30,39,Não,Não,Não,Experiências e viagens,2025-04-03 02:08:05
+464,39,RJ,Rio de Janeiro,Barra da Tijuca,Masculino,Samba,Nos Finais de Semana,Não,Sim,Diariamente,23,38,Tanto Faz,Tanto Faz,Tanto Faz,Experiências e viagens,2025-04-03 02:15:26
+465,31,PI,Teresina,Jóquej,Feminino,Pop,Bebo Socialmente,Não,Não,3x por semana,25,45,Sim,Não,Não,Riqueza espiritual,2025-04-03 05:12:24
+466,50,GO,Goiânia,Jardim Atlântico ,Feminino,MPB,Bebo Socialmente,Sim,Sim,Diariamente,40,56,Não,Não,Não,Equilíbrio material/espiritual,2025-04-03 08:23:04
