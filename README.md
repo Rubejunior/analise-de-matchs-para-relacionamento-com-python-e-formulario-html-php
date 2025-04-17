@@ -158,6 +158,5 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 
 ## 📧 Contato
 
-Equipe de Desenvolvimento - contato@matchanalytics.com  
-[Link da Aplicação](https://seuapp.herokuapp.com)  
-[Repositório GitHub](https://github.com/seuuser/match-analytics)
+Equipe de Desenvolvimento - rubemargo@gmail.com
+62 996514862
