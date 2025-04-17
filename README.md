@@ -4,11 +4,10 @@ site com formulario:
 https://www.casamentonaweb.com.br/
 
 
-Este projeto consiste de uma brincadeira que surgiu no app Threads e acabou gerando esse trabalho vonluntários.
-Que consiste em um formulário web para capturar intenções de relacionamento, hospedado na Hostinger mas com futuro de hospedar em Heroku para tambem fazer as analises via SQL. O objetivo principal é ajudar pessoas a encontrarem conexões significativas na internet, para tanto organizo uma analisa dados de perfis para facilitar a identificação dos melhores matches para cada usuário.
-É vonlutário e feito em raras horas de folga e tem possibilidades de evoluir para um app real , por isso se tiver interesse em ajudar entre em contato comigo 62 - 996514862
-Deixei uma demonstração dos resultados, primeiro separo homens e mulheres, depois separo por estado (foram criados grupos de whatsapp em algumas cidades com ajuda de vonlutários) e por fim os pares com base em homens
-Os dados são reais e o formulario_casamento consta com certa de 470 cadastro o que torna a analise mais real.
+Este projeto consiste de uma brincadeira que surgiu no app Threads e acabou gerando esse trabalho vonluntário que consiste em um formulário web para capturar intenções de relacionamento, hospedado na Hostinger mas com futuro desejo de hospedar em Heroku para tambem fazer as analises via SQL automatizadas bem como tests de softwares. O objetivo principal é ajudar pessoas a encontrarem conexões significativas na internet, para tanto organizo uma analise dados de perfis para facilitar a identificação dos melhores matches para cada usuário.
+É vonlutário e feito em raras horas de folga e tem possibilidades de evoluir para um app real, por isso se tiver interesse em ajudar entre em contato comigo 62 - 996514862
+Deixei uma demonstração dos resultados em que primeiro separo homens e mulheres, depois separo por estado (foram criados grupos de whatsapp em algumas cidades com ajuda de vonlutários) e por fim os pares com base em homens que era minoria no cadastro.
+Os dados são reais e o formulario_casamento consta com certa de 470 cadastro voluntários e reais.
 
 ## Roadmap e Futuras Implementações (como trabalho com testes de softwares pretendo:)
 
